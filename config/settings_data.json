@@ -431,32 +431,6 @@
               "button_label_3": "",
               "button_link_3": ""
             }
-          },
-          "0ce834fc-90d0-4b9c-93c4-7914a7ad9a30": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "alt": false,
-              "enable_image_1": true,
-              "image_width_1": 650,
-              "title_1": "Example title",
-              "text_1": "",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_width_2": 650,
-              "title_2": "Example title",
-              "text_2": "",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": true,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
           }
         },
         "block_order": [
@@ -467,8 +441,7 @@
           "caf9f9c1-a3a4-47d8-a33c-9d56f68fce7f",
           "3b3ed189-97ec-4317-b68f-70f36bc75b33",
           "fc7b67c2-3b4b-415d-9119-7a2b41f8dda9",
-          "5043d373-d80a-4a38-bdb2-1c75afa26418",
-          "0ce834fc-90d0-4b9c-93c4-7914a7ad9a30"
+          "5043d373-d80a-4a38-bdb2-1c75afa26418"
         ],
         "settings": {
           "page_title_enable": false,
