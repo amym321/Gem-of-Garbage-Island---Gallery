@@ -1,4 +1,6 @@
-{%- liquid
+  {% comment %} if displayed on collection, also display on pages -  {% endcomment %}
+
+  {%- liquid
   assign enable_section = false
 
   if template == 'index' and section.settings.enable_home
@@ -10,6 +12,10 @@
   endif
 
   if template contains 'collection' and section.settings.enable_collection
+    assign enable_section = true
+  endif
+
+  if template contains 'page' and section.settings.enable_collection
     assign enable_section = true
   endif
 -%}
