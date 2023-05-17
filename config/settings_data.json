@@ -687,6 +687,7 @@
       },
       "1559585995085": {
         "type": "featured-collection-slider",
+        "disabled": true,
         "settings": {
           "title": "Shop Rings",
           "description": "Rock your look with these rings made from American mined Turquoise and recycled sterling silver (let's be eco conscious ya'll!).",
@@ -1349,12 +1350,12 @@
       "e4d1b731-2aa1-4357-b80b-47039ab46f0d",
       "1559687247066",
       "1543003878234",
+      "1556162802939",
       "1559585995085",
       "1558626745581",
-      "1559096311192",
       "1556162914490",
+      "1559096311192",
       "1559098181700",
-      "1556162802939",
       "1559687361077",
       "1559687710135",
       "1559586187853"
