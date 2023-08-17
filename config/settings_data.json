@@ -634,12 +634,13 @@
               "link_text": "FAQs",
               "color_accent": "#111111",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2021-04-19_at_5.44.58_PM.png",
+              "image": "shopify:\/\/shop_images\/9F15A813-69E0-4427-AD44-13993FEFFCBF.jpg",
               "focal_point": "center center"
             }
           },
           "04ad0d94-decd-4ee2-8786-2b2650b32a2d": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "title": "Handcrafted with love",
               "title_size": 49,
@@ -654,6 +655,7 @@
           },
           "6cf3bf68-b86c-4dab-9ccf-57cba6652c3b": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "title": "Handcrafted with love",
               "title_size": 50,
@@ -708,7 +710,7 @@
           "text_spacing": true,
           "color_scheme": "button",
           "direction": "left",
-          "speed": "normal"
+          "speed": "slow"
         }
       },
       "1559687247066": {
