@@ -483,7 +483,7 @@
             "type": "collection",
             "settings": {
               "collection": "shop-all",
-              "image": "shopify:\/\/shop_images\/0DFBFE71-026F-45AF-8CAB-FDEF9EB9F31B.jpg",
+              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.22.32_PM.png",
               "focal_point": "center center"
             }
           },
@@ -491,7 +491,7 @@
             "type": "collection",
             "settings": {
               "collection": "ready-to-ship",
-              "image": "shopify:\/\/shop_images\/EBF81B49-8D21-4A1C-BF45-056FEB5A2329.png",
+              "image": "shopify:\/\/shop_images\/1ADF9D03-33BC-402F-AF07-453D47358C81_f5479a69-f914-4ae7-8ee3-00ca03fac9f7.jpg",
               "focal_point": "center center"
             }
           },
@@ -499,7 +499,7 @@
             "type": "collection",
             "settings": {
               "collection": "rings",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-03_at_2.50.14_PM.png",
+              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.34.51_PM.png",
               "focal_point": "center center"
             }
           },
@@ -507,15 +507,15 @@
             "type": "collection",
             "settings": {
               "collection": "earrings",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2021-08-15_at_4.06.25_PM.png",
-              "focal_point": "center center"
+              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.34.21_PM.png",
+              "focal_point": "bottom center"
             }
           },
           "1543003878234-2": {
             "type": "collection",
             "settings": {
               "collection": "necklaces",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-03_at_2.48.10_PM.png",
+              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.33.24_PM.png",
               "focal_point": "center center"
             }
           },
@@ -523,7 +523,7 @@
             "type": "collection",
             "settings": {
               "collection": "bracelets",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-03_at_2.49.02_PM.png",
+              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.32.08_PM.png",
               "focal_point": "center center"
             }
           },
@@ -555,6 +555,9 @@
       "list-collections-template": {
         "type": "list-collections-template",
         "settings": {
+          "title_enable": true,
+          "display_type": "all",
+          "sort": "alphabetical"
         }
       },
       "1556162802939": {
@@ -711,7 +714,7 @@
       "1559687247066": {
         "type": "text-and-image",
         "settings": {
-          "image": "shopify:\/\/shop_images\/1ADF9D03-33BC-402F-AF07-453D47358C81.jpg",
+          "image": "shopify:\/\/shop_images\/E7F856D1-01EB-4093-807B-A047E8BAD321.jpg",
           "image2": "shopify:\/\/shop_images\/F7456BDE-8D28-4788-9245-086605B32D6C.jpg",
           "image_width": 700,
           "subtitle": "Come join the party and,",
