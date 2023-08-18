@@ -529,9 +529,9 @@
           },
           "d0518b75-1ebd-4ac8-9457-28a8170631c1": {
             "type": "collection",
-            "disabled": true,
             "settings": {
               "collection": "made-to-order",
+              "image": "shopify:\/\/shop_images\/45D78CE9-7FFB-42C5-868F-68E54E6AD50F.jpg",
               "focal_point": "center center"
             }
           }
