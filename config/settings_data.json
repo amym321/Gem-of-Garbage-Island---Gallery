@@ -1363,7 +1363,8 @@
       "password-header": {
         "type": "password-header",
         "settings": {
-          "desktop_logo_width": 200,
+          "logo": "shopify:\/\/shop_images\/logo_test_6.png",
+          "desktop_logo_width": 170,
           "mobile_logo_width": 140
         }
       },
