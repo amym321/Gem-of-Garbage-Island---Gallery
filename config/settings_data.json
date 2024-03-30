@@ -1359,6 +1359,27 @@
           "page_content_enable": false,
           "last_page": true
         }
+      },
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "desktop_logo_width": 200,
+          "mobile_logo_width": 140
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "title": "WELCOME TO THE ROCKA ROLLA NECKLACE RELEASE!",
+          "show_password_message": true,
+          "text": "<p>Enter your password in the top right corner of the screen!<\/p>",
+          "newsletter_enable": false,
+          "newsletter_placeholder": "Enter your email",
+          "newsletter_button_text": "Submit",
+          "show_share_buttons": false,
+          "show_image": true,
+          "image": "shopify:\/\/shop_images\/EA99647A-D1AF-4AF2-91E8-B3B37212C7EA.jpg"
+        }
       }
     },
     "content_for_index": [
