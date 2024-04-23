@@ -26,7 +26,7 @@
 
 <footer class="site-footer text-center" data-section-id="{{ section.id }}" data-section-type="footer-section">
   {%- if section.settings.show_newsletter -%}
-    <div class="site-footer__section site-footer__section--newsletter" data-aos>
+    <div id="email-signup" class="site-footer__section site-footer__section--newsletter" data-aos>
       <div class="page-width">
         {%- if section.settings.newsletter_title != blank -%}
           <div class="h2 appear-delay">{{ section.settings.newsletter_title }}</div>
