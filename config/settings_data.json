@@ -584,7 +584,7 @@
           "title": "Featured collection",
           "description": "Check out some of our top selling items!",
           "home_featured_products": "best-sellers",
-          "rows": 2,
+          "rows": 1,
           "per_row_desktop": 4,
           "per_row_mobile": "2",
           "view_all": true,
