@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -574,7 +583,7 @@
         "settings": {
           "title": "Featured collection",
           "description": "Check out some of our top selling items!",
-          "home_featured_products": "ready-to-ship",
+          "home_featured_products": "made-to-order",
           "rows": 1,
           "per_row_desktop": 4,
           "per_row_mobile": "2",
