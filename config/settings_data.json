@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -53,12 +53,12 @@
     "cart_type": "page",
     "cart_additional_buttons": true,
     "cart_notes_enable": true,
-    "social_instagram_link": "https:\/\/www.instagram.com\/gogijewelry",
-    "social_facebook_link": "https:\/\/www.facebook.com\/gogijewelry",
+    "social_instagram_link": "https://www.instagram.com/gogijewelry",
+    "social_facebook_link": "https://www.facebook.com/gogijewelry",
     "social_pinterest_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@gogi_jewelry",
-    "favicon": "shopify:\/\/shop_images\/logo_test_6.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/PINK_LOGO_FINAL_2.png",
+    "social_tiktok_link": "https://www.tiktok.com/@gogi_jewelry",
+    "favicon": "shopify://shop_images/logo_test_6.png",
+    "checkout_logo_image": "shopify://shop_images/PINK_LOGO_FINAL_2.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#ffffff",
@@ -84,7 +84,7 @@
           "sticky_index": true,
           "sticky_collection": false,
           "header_search_enable": true,
-          "logo": "shopify:\/\/shop_images\/logo_test_6.png",
+          "logo": "shopify://shop_images/logo_test_6.png",
           "desktop_logo_width": 190,
           "mobile_logo_width": 110,
           "logo_hide_mobile": true,
@@ -100,7 +100,7 @@
         "settings": {
           "show_newsletter": true,
           "newsletter_title": "LET THE GOOD TIMES ROLL!!!!!",
-          "newsletter_richtext": "<p>Join the party! Sign up for the VIP email list for early access to all shop updates and exclusive offers!  I promise to not spam your inbox... we all get enough emails these days! ✌️💛🌈<\/p>",
+          "newsletter_richtext": "<p>Join the party! Sign up for the VIP email list for early access to all shop updates and exclusive offers!  I promise to not spam your inbox... we all get enough emails these days! ✌️💛🌈</p>",
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_currency_flags": true,
@@ -174,13 +174,13 @@
               "enable_image_1": false,
               "image_width_1": 650,
               "title_1": "Reason one",
-              "text_1": "<p>We create QUALITY products from the HEART that will last a lifetime and then some! Buying from us not only means you get something beautiful, but you have a product you can depend on forever - totally worth the investment!<\/p>",
+              "text_1": "<p>We create QUALITY products from the HEART that will last a lifetime and then some! Buying from us not only means you get something beautiful, but you have a product you can depend on forever - totally worth the investment!</p>",
               "button_label_1": "",
               "button_link_1": "",
               "enable_image_2": false,
               "image_width_2": 650,
               "title_2": "Reason two",
-              "text_2": "<p>You are supporting a small business and therefore helping creative expression exist in a time when big business and mass production is running the show. Artists are essential to our collective evolution and wellbeing. We need more power to the people, and supporting small businesses is a way to do that! Thank you!✊<\/p>",
+              "text_2": "<p>You are supporting a small business and therefore helping creative expression exist in a time when big business and mass production is running the show. Artists are essential to our collective evolution and wellbeing. We need more power to the people, and supporting small businesses is a way to do that! Thank you!✊</p>",
               "button_label_2": "",
               "button_link_2": "",
               "enable_image_3": false,
@@ -194,12 +194,12 @@
           "product-text-and-image": {
             "type": "text-and-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/20D7B450-1BFB-4A12-8C94-0FBA646F36AC.jpg",
-              "image2": "shopify:\/\/shop_images\/851279F5-154F-4C8B-BF4E-D63F4B9E90D7.jpg",
+              "image": "shopify://shop_images/20D7B450-1BFB-4A12-8C94-0FBA646F36AC.jpg",
+              "image2": "shopify://shop_images/851279F5-154F-4C8B-BF4E-D63F4B9E90D7.jpg",
               "image_width": 610,
               "subtitle": "",
               "title": "A little bit country, a little bit rock 'n roll",
-              "text": "<p>Country Western meets Rock 'n Roll & 60's psychedelia for jewelry that's exciting and expressive but feels like home. Forward thinking Aquarian Age designs grounded in the longstanding traditions of silversmithing.<\/p>",
+              "text": "<p>Country Western meets Rock 'n Roll & 60's psychedelia for jewelry that's exciting and expressive but feels like home. Forward thinking Aquarian Age designs grounded in the longstanding traditions of silversmithing.</p>",
               "button_label": "",
               "button_link": "",
               "button_style": "primary",
@@ -212,10 +212,10 @@
             "settings": {
               "subtitle": "",
               "title": "Handcrafted with love",
-              "text": "<p>Everything is handmade by Kristin Groener in her Red Lodge, MT studio using recycled metals and American mined stones. Got questions? Scroll the FAQ's for answers!<\/p>",
+              "text": "<p>Everything is handmade by Kristin Groener in her Red Lodge, MT studio using recycled metals and American mined stones. Got questions? Scroll the FAQ's for answers!</p>",
               "button_label": "FAQs",
-              "button_link": "shopify:\/\/pages\/faqs",
-              "image": "shopify:\/\/shop_images\/2C9F83FA-141A-4850-9D46-5E8BEA45589C.jpg",
+              "button_link": "shopify://pages/faqs",
+              "image": "shopify://shop_images/2C9F83FA-141A-4850-9D46-5E8BEA45589C.jpg",
               "desktop_size": 0,
               "image_alignment": "center center",
               "color_border": "#f4f4f4",
@@ -228,8 +228,7 @@
           "product-text-and-image",
           "product-background-image-text"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "page-sections-template": {
         "type": "page-sections-template",
@@ -465,7 +464,7 @@
           "popup_seconds": 3,
           "popup_days": 2,
           "popup_title": "LET THE GOOD TIMES ROLL!!!!!",
-          "popup_text": "<p>Join the party! Sign up for the VIP email list for early access to all shop updates and exclusive offers! I promise to not spam your inbox... we all get enough emails these days! ✌️💛🌈<\/p>",
+          "popup_text": "<p>Join the party! Sign up for the VIP email list for early access to all shop updates and exclusive offers! I promise to not spam your inbox... we all get enough emails these days! ✌️💛🌈</p>",
           "enable_newsletter": true,
           "button_label": "",
           "button_link": ""
@@ -493,7 +492,7 @@
             "type": "collection",
             "settings": {
               "collection": "shop-all",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.22.32_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2023-08-17_at_5.22.32_PM.png",
               "focal_point": "center center"
             }
           },
@@ -501,7 +500,7 @@
             "type": "collection",
             "settings": {
               "collection": "ready-to-ship",
-              "image": "shopify:\/\/shop_images\/E7F856D1-01EB-4093-807B-A047E8BAD321.jpg",
+              "image": "shopify://shop_images/E7F856D1-01EB-4093-807B-A047E8BAD321.jpg",
               "focal_point": "center center"
             }
           },
@@ -509,7 +508,7 @@
             "type": "collection",
             "settings": {
               "collection": "rings",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.34.51_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2023-08-17_at_5.34.51_PM.png",
               "focal_point": "center center"
             }
           },
@@ -517,7 +516,7 @@
             "type": "collection",
             "settings": {
               "collection": "earrings",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.34.21_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2023-08-17_at_5.34.21_PM.png",
               "focal_point": "bottom center"
             }
           },
@@ -525,7 +524,7 @@
             "type": "collection",
             "settings": {
               "collection": "necklaces",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.33.24_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2023-08-17_at_5.33.24_PM.png",
               "focal_point": "center center"
             }
           },
@@ -533,7 +532,7 @@
             "type": "collection",
             "settings": {
               "collection": "bracelets",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2023-08-17_at_5.32.08_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2023-08-17_at_5.32.08_PM.png",
               "focal_point": "center center"
             }
           },
@@ -541,7 +540,7 @@
             "type": "collection",
             "settings": {
               "collection": "made-to-order",
-              "image": "shopify:\/\/shop_images\/45D78CE9-7FFB-42C5-868F-68E54E6AD50F.jpg",
+              "image": "shopify://shop_images/45D78CE9-7FFB-42C5-868F-68E54E6AD50F.jpg",
               "focal_point": "center center"
             }
           },
@@ -583,7 +582,7 @@
         "settings": {
           "title": "Featured collection",
           "description": "Check out some of our top selling items!",
-          "home_featured_products": "best-sellers",
+          "home_featured_products": "ready-to-ship",
           "rows": 1,
           "per_row_desktop": 4,
           "per_row_mobile": "2",
@@ -605,7 +604,7 @@
         "type": "featured-content",
         "settings": {
           "title": "",
-          "text": "<p>Sacred adornment. Self expression. Talisman. Heirloom. Art. What does your jewelry mean to you?  We make adornments that will last a lifetime and serve to uplift you and all who cross your path.<\/p><p><strong>Be Love. Stay Groovy.<br\/><\/strong>✌️💛🌈<\/p>",
+          "text": "<p>Sacred adornment. Self expression. Talisman. Heirloom. Art. What does your jewelry mean to you?  We make adornments that will last a lifetime and serve to uplift you and all who cross your path.</p><p><strong>Be Love. Stay Groovy.<br/></strong>✌️💛🌈</p>",
           "align_text": "center",
           "narrow_column": true,
           "enlarge_text": true,
@@ -618,8 +617,8 @@
           "1559097202495": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/A747B8AF-8169-4602-B846-897F7B34F940.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/A747B8AF-8169-4602-B846-897F7B34F940.jpg",
+              "image": "shopify://shop_images/A747B8AF-8169-4602-B846-897F7B34F940.jpg",
+              "image_mobile": "shopify://shop_images/A747B8AF-8169-4602-B846-897F7B34F940.jpg",
               "focal_point": "center center"
             }
           }
@@ -632,7 +631,7 @@
           "title": "A little bit country, a little bit rock 'n roll",
           "title_size": 35,
           "subheading": "Country Western meets Rock 'n Roll & 60's psychedelia for jewelry that's exciting and expressive but feels like home. Forward thinking groovy designs grounded in the longstanding traditions of silversmithing.",
-          "link": "shopify:\/\/collections",
+          "link": "shopify://collections",
           "link_text": "SHOP ALL",
           "color_accent": "rgba(0,0,0,0)",
           "text_align": "vertical-center horizontal-center",
@@ -649,11 +648,11 @@
               "title": "Handcrafted with love",
               "title_size": 49,
               "subheading": "Everything is handmade by Kristin Groener in her Red Lodge, MT studio using recycled metals and American mined stones. Got questions? Scroll the FAQ's for answers!",
-              "link": "shopify:\/\/pages\/faqs",
+              "link": "shopify://pages/faqs",
               "link_text": "FAQs",
               "color_accent": "#111111",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/9F15A813-69E0-4427-AD44-13993FEFFCBF.jpg",
+              "image": "shopify://shop_images/9F15A813-69E0-4427-AD44-13993FEFFCBF.jpg",
               "focal_point": "center center"
             }
           },
@@ -664,11 +663,11 @@
               "title": "Handcrafted with love",
               "title_size": 49,
               "subheading": "Everything is handmade by Kristin Groener in her Red Lodge, MT studio in using recycled metals and American mined stones. Got questions? Scroll the FAQ's for answers!",
-              "link": "shopify:\/\/pages\/faqs",
+              "link": "shopify://pages/faqs",
               "link_text": "FAQs",
               "color_accent": "#111111",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2021-08-15_at_4.10.12_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2021-08-15_at_4.10.12_PM.png",
               "focal_point": "center center"
             }
           },
@@ -679,11 +678,11 @@
               "title": "Handcrafted with love",
               "title_size": 50,
               "subheading": "Everything is handmade by Kristin Groener in her Red Lodge, MT studio using recycled metals and American mined stones. Got questions? Scroll the FAQ's for answers!",
-              "link": "shopify:\/\/pages\/faqs",
+              "link": "shopify://pages/faqs",
               "link_text": "FAQs",
               "color_accent": "#111111",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/Screen_Shot_2021-08-15_at_5.57.02_PM.png",
+              "image": "shopify://shop_images/Screen_Shot_2021-08-15_at_5.57.02_PM.png",
               "focal_point": "center center"
             }
           }
@@ -735,14 +734,14 @@
       "1559687247066": {
         "type": "text-and-image",
         "settings": {
-          "image": "shopify:\/\/shop_images\/1CC6ED06-A02F-4164-AD9A-096F8C40344B.jpg",
-          "image2": "shopify:\/\/shop_images\/F7456BDE-8D28-4788-9245-086605B32D6C.jpg",
+          "image": "shopify://shop_images/1CC6ED06-A02F-4164-AD9A-096F8C40344B.jpg",
+          "image2": "shopify://shop_images/F7456BDE-8D28-4788-9245-086605B32D6C.jpg",
           "image_width": 700,
           "subtitle": "Come join the party and,",
           "title": "Let's Rock!",
-          "text": "<p>Welcome to your new outlet for rockin' jewelry that tells everyone what you're all about. Shine your light in one of our statement pieces - available in styles large 'n small. Let us make the world more beautiful together by you being YOU!<br\/><br\/><strong>Be Love. Stay Groovy.<br\/><\/strong>✌️💛🌈<\/p>",
+          "text": "<p>Welcome to your new outlet for rockin' jewelry that tells everyone what you're all about. Shine your light in one of our statement pieces - available in styles large 'n small. Let us make the world more beautiful together by you being YOU!<br/><br/><strong>Be Love. Stay Groovy.<br/></strong>✌️💛🌈</p>",
           "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections",
+          "button_link": "shopify://collections",
           "button_style": "secondary",
           "layout": "right",
           "alt": false
@@ -751,14 +750,14 @@
       "1559687361077": {
         "type": "text-and-image",
         "settings": {
-          "image": "shopify:\/\/shop_images\/357DA3BA-0756-408F-9160-CA10C845DD3A.jpg",
-          "image2": "shopify:\/\/shop_images\/FE1DC115-7B3B-4547-89A1-68E528ADCF3E.jpg",
+          "image": "shopify://shop_images/357DA3BA-0756-408F-9160-CA10C845DD3A.jpg",
+          "image2": "shopify://shop_images/FE1DC115-7B3B-4547-89A1-68E528ADCF3E.jpg",
           "image_width": 700,
           "subtitle": "",
           "title": "Be uniqely you",
-          "text": "<p>Tell your story through how you choose to adorn yourself. What speaks to your heart? Sit back and let your jewels do the talking.<\/p><p><\/p><p>Read about Kristin's personal journey with jewelry here.<\/p>",
+          "text": "<p>Tell your story through how you choose to adorn yourself. What speaks to your heart? Sit back and let your jewels do the talking.</p><p></p><p>Read about Kristin's personal journey with jewelry here.</p>",
           "button_label": "About",
-          "button_link": "shopify:\/\/pages\/about",
+          "button_link": "shopify://pages/about",
           "button_style": "secondary",
           "layout": "left",
           "alt": false
@@ -768,10 +767,10 @@
         "type": "map",
         "settings": {
           "map_title": "LOCAL PICKUP",
-          "address": "<p>Red Lodge, MT, USA<\/p><p>Mon - Fri: 12pm - 5pm<br\/>Saturday: 12pm - 5pm<br\/>Sunday: CLOSED<\/p>",
+          "address": "<p>Red Lodge, MT, USA</p><p>Mon - Fri: 12pm - 5pm<br/>Saturday: 12pm - 5pm<br/>Sunday: CLOSED</p>",
           "map_address": "Red Lodge, MT",
           "api_key": "",
-          "background_image": "shopify:\/\/shop_images\/F7456BDE-8D28-4788-9245-086605B32D6C.jpg",
+          "background_image": "shopify://shop_images/F7456BDE-8D28-4788-9245-086605B32D6C.jpg",
           "background_image_position": "center center"
         }
       },
@@ -781,8 +780,8 @@
           "c50debaa-81de-4823-9c95-973f679447da": {
             "type": "post",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2213.jpg",
-              "link": "https:\/\/www.instagram.com\/p\/Cvh3rHqLD7Z\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+              "image": "shopify://shop_images/IMG_2213.jpg",
+              "link": "https://www.instagram.com/p/Cvh3rHqLD7Z/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
               "product": "",
               "account": "@gogijewelry",
               "caption": "",
@@ -792,8 +791,8 @@
           "7554fa75-186d-406f-bb69-2f7cb07b37d7": {
             "type": "post",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2214.jpg",
-              "link": "https:\/\/www.instagram.com\/p\/CvVadCWuY6Y\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+              "image": "shopify://shop_images/IMG_2214.jpg",
+              "link": "https://www.instagram.com/p/CvVadCWuY6Y/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
               "product": "",
               "account": "@gogijewelry",
               "caption": "",
@@ -803,8 +802,8 @@
           "bca6583d-c8f0-4b03-a49c-fd118802b054": {
             "type": "post",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2216.jpg",
-              "link": "https:\/\/www.instagram.com\/p\/CsrBoVRpawq\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+              "image": "shopify://shop_images/IMG_2216.jpg",
+              "link": "https://www.instagram.com/p/CsrBoVRpawq/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
               "product": "",
               "account": "@gogijewelry",
               "caption": "",
@@ -814,8 +813,8 @@
           "74d9972c-1478-48ef-860f-ea73163c4487": {
             "type": "post",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2217.jpg",
-              "link": "https:\/\/www.instagram.com\/p\/Cs3_WK6OYMO\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+              "image": "shopify://shop_images/IMG_2217.jpg",
+              "link": "https://www.instagram.com/p/Cs3_WK6OYMO/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
               "product": "",
               "account": "@gogijewelry",
               "caption": "",
@@ -825,8 +824,8 @@
           "d0c8b55e-e019-4fe2-9744-f2b81a6d0105": {
             "type": "post",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2215.jpg",
-              "link": "https:\/\/www.instagram.com\/p\/CtzGP_wuzLC\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+              "image": "shopify://shop_images/IMG_2215.jpg",
+              "link": "https://www.instagram.com/p/CtzGP_wuzLC/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
               "product": "",
               "account": "@gogijewelry",
               "caption": "",
@@ -846,7 +845,7 @@
           "enable_product": true,
           "enable_collection": true,
           "title": "On social",
-          "description": "<p>Connect with me <a href=\"https:\/\/www.instagram.com\/gogijewelry\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/gogijewelry\/\">@gogijewelry<\/a><\/p>"
+          "description": "<p>Connect with me <a href=\"https://www.instagram.com/gogijewelry/\" target=\"_blank\" title=\"https://www.instagram.com/gogijewelry/\">@gogijewelry</a></p>"
         }
       },
       "collection-header": {
@@ -893,12 +892,12 @@
               "title": "",
               "title_size": 80,
               "subheading": "Slow Crafted Quality Jewelry Inspired by Nature",
-              "link": "shopify:\/\/collections\/shop-all",
+              "link": "shopify://collections/shop-all",
               "link_text": "SHOP NOW",
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-center",
-              "image": "shopify:\/\/shop_images\/ADB0E037-4B66-4A59-B0C5-E45807C8EB40.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/ADB0E037-4B66-4A59-B0C5-E45807C8EB40.jpg",
+              "image": "shopify://shop_images/ADB0E037-4B66-4A59-B0C5-E45807C8EB40.jpg",
+              "image_mobile": "shopify://shop_images/ADB0E037-4B66-4A59-B0C5-E45807C8EB40.jpg",
               "focal_point": "20% 50%"
             }
           }
@@ -1372,7 +1371,7 @@
       "password-header": {
         "type": "password-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/logo_test_6.png",
+          "logo": "shopify://shop_images/logo_test_6.png",
           "desktop_logo_width": 170,
           "mobile_logo_width": 140
         }
@@ -1382,13 +1381,13 @@
         "settings": {
           "title": "WELCOME TO THE MONTANA AGATE RING COLLECTION!",
           "show_password_message": true,
-          "text": "<p>Enter your password in the top right corner of the screen at 5PM MT to enter!<\/p>",
+          "text": "<p>Enter your password in the top right corner of the screen at 5PM MT to enter!</p>",
           "newsletter_enable": false,
           "newsletter_placeholder": "Enter your email",
           "newsletter_button_text": "Submit",
           "show_share_buttons": false,
           "show_image": true,
-          "image": "shopify:\/\/shop_images\/IMG_1013.jpg"
+          "image": "shopify://shop_images/IMG_1013.jpg"
         }
       }
     },
@@ -1457,9 +1456,9 @@
       "product_image_scatter": false,
       "product_video_style": "muted",
       "reviews_layout": "full",
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
       "type_base_font_family": "roboto_condensed_n4",
       "type_base_line_height": 1.6,
       "type_base_size": 18,
@@ -1501,8 +1500,7 @@
         },
         "product-template": {
           "type": "product-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "article-template": {
           "type": "article-template",
@@ -1538,11 +1536,11 @@
                 "enable_image_1": false,
                 "image_width_1": 650,
                 "title_1": "Reason one",
-                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
                 "enable_image_2": false,
                 "image_width_2": 650,
                 "title_2": "Reason two",
-                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
                 "enable_image_3": false,
                 "image_width_3": 650,
                 "title_3": "",
@@ -1553,7 +1551,7 @@
               "type": "text-and-image",
               "settings": {
                 "image_width": 700,
-                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.</p>",
                 "button_style": "primary",
                 "layout": "right"
               }
@@ -1570,8 +1568,7 @@
             "product-text-and-image",
             "product-background-image-text"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "page-sections-template": {
           "type": "page-sections-template",
@@ -1593,8 +1590,7 @@
             },
             "1558643392013": {
               "type": "map",
-              "settings": {
-              }
+              "settings": {}
             },
             "1558643431127": {
               "type": "collection-slider",
@@ -1640,23 +1636,19 @@
           "blocks": {
             "1543003878234-0": {
               "type": "collection",
-              "settings": {
-              }
+              "settings": {}
             },
             "1543003878234-1": {
               "type": "collection",
-              "settings": {
-              }
+              "settings": {}
             },
             "1543003878234-2": {
               "type": "collection",
-              "settings": {
-              }
+              "settings": {}
             },
             "1543003878234-3": {
               "type": "collection",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -1672,8 +1664,7 @@
         },
         "list-collections-template": {
           "type": "list-collections-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "1556162802939": {
           "type": "featured-collection",
@@ -1702,13 +1693,11 @@
           "blocks": {
             "1559096311192-0": {
               "type": "image",
-              "settings": {
-              }
+              "settings": {}
             },
             "1559097202495": {
               "type": "image",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -1736,8 +1725,7 @@
           "block_order": [
             "1559098181700-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "1559321610782": {
           "type": "hero-video",
@@ -1789,8 +1777,7 @@
         },
         "1559687710135": {
           "type": "map",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "content_for_index": [
@@ -1855,9 +1842,9 @@
       "product_image_scatter": false,
       "product_video_style": "muted",
       "reviews_layout": "full",
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
       "type_base_font_family": "futura_n4",
       "type_base_line_height": 1.7,
       "type_base_size": 18,
@@ -1896,8 +1883,7 @@
         },
         "product-template": {
           "type": "product-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "article-template": {
           "type": "article-template",
@@ -1933,11 +1919,11 @@
                 "enable_image_1": false,
                 "image_width_1": 650,
                 "title_1": "Reason one",
-                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
                 "enable_image_2": false,
                 "image_width_2": 650,
                 "title_2": "Reason two",
-                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
                 "enable_image_3": false,
                 "image_width_3": 650,
                 "title_3": "",
@@ -1948,7 +1934,7 @@
               "type": "text-and-image",
               "settings": {
                 "image_width": 700,
-                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.</p>",
                 "button_style": "primary",
                 "layout": "right"
               }
@@ -1965,8 +1951,7 @@
             "product-text-and-image",
             "product-background-image-text"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "page-sections-template": {
           "type": "page-sections-template",
@@ -1998,8 +1983,7 @@
             },
             "1558643392013": {
               "type": "map",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -2046,13 +2030,11 @@
         },
         "1556162802939": {
           "type": "featured-collection-slider",
-          "settings": {
-          }
+          "settings": {}
         },
         "1556162914490": {
           "type": "featured-collection-slider",
-          "settings": {
-          }
+          "settings": {}
         },
         "1558625522348": {
           "type": "background-image-text",
@@ -2110,8 +2092,7 @@
         },
         "password-header": {
           "type": "password-header",
-          "settings": {
-          }
+          "settings": {}
         },
         "password-content": {
           "type": "password-content",
@@ -2179,9 +2160,9 @@
       "product_image_scatter": true,
       "product_video_style": "muted",
       "reviews_layout": "full",
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
       "type_base_font_family": "basic_commercial_n7",
       "type_base_line_height": 1.3,
       "type_base_size": 20,
@@ -2216,8 +2197,7 @@
         },
         "product-template": {
           "type": "product-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "article-template": {
           "type": "article-template",
@@ -2253,11 +2233,11 @@
                 "enable_image_1": false,
                 "image_width_1": 650,
                 "title_1": "Reason one",
-                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
                 "enable_image_2": false,
                 "image_width_2": 650,
                 "title_2": "Reason two",
-                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.</p>",
                 "enable_image_3": false,
                 "image_width_3": 650,
                 "title_3": "",
@@ -2268,7 +2248,7 @@
               "type": "text-and-image",
               "settings": {
                 "image_width": 700,
-                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.</p>",
                 "button_style": "primary",
                 "layout": "right"
               }
@@ -2285,8 +2265,7 @@
             "product-text-and-image",
             "product-background-image-text"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "page-sections-template": {
           "type": "page-sections-template",
@@ -2326,41 +2305,34 @@
         },
         "list-collections-template": {
           "type": "list-collections-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "1555097143929": {
           "type": "text-and-image",
-          "settings": {
-          }
+          "settings": {}
         },
         "1556162802939": {
           "type": "featured-collection-slider",
-          "settings": {
-          }
+          "settings": {}
         },
         "1556162914490": {
           "type": "featured-collection-slider",
-          "settings": {
-          }
+          "settings": {}
         },
         "1559240039950": {
           "type": "hero-animated",
           "blocks": {
             "1559240039950-0": {
               "type": "image",
-              "settings": {
-              }
+              "settings": {}
             },
             "1559240039950-1": {
               "type": "image",
-              "settings": {
-              }
+              "settings": {}
             },
             "1559309176406": {
               "type": "image",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
