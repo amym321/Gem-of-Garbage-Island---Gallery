@@ -593,6 +593,7 @@
       },
       "1556162914490": {
         "type": "featured-collection-slider",
+        "disabled": true,
         "settings": {
           "title": "SHOP EARRINGS",
           "description": "",
@@ -759,8 +760,8 @@
           "image2": "shopify://shop_images/FE1DC115-7B3B-4547-89A1-68E528ADCF3E.jpg",
           "image_width": 700,
           "subtitle": "",
-          "title": "Be uniqely you",
-          "text": "<p>Tell your story through how you choose to adorn yourself. What speaks to your heart? Sit back and let your jewels do the talking.</p><p></p><p>Read about Kristin's personal journey with jewelry here.</p>",
+          "title": "Meet the Maker",
+          "text": "<p>Read about Kristin's personal journey with jewelry here.</p>",
           "button_label": "About",
           "button_link": "shopify://pages/about",
           "button_style": "secondary",
