@@ -99,8 +99,8 @@
         "type": "footer",
         "settings": {
           "show_newsletter": true,
-          "newsletter_title": "LET THE GOOD TIMES ROLL!!!!!",
-          "newsletter_richtext": "<p>Join the party! Sign up for the VIP email list for early access to all shop updates and exclusive offers!  I promise to not spam your inbox... we all get enough emails these days! ✌️💛🌈</p>",
+          "newsletter_title": "Let the Good Times Roll!",
+          "newsletter_richtext": "<p>Join the VIP email list for early access to new releases, shop updates, and exclusive offers.</p><p>No spam. Just the good stuff.✌️</p>",
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_currency_flags": true,
