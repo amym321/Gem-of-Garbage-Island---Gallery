@@ -727,6 +727,7 @@
       },
       "1559586187853": {
         "type": "marquee",
+        "disabled": true,
         "settings": {
           "text": "Join the email list for early access to all >>shop updates<< and exclusive offers!!",
           "link": "",
