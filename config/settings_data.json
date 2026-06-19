@@ -763,7 +763,7 @@
           "subtitle": "",
           "title": "Meet the Maker",
           "text": "<p>Read about Kristin's personal journey with jewelry here.</p>",
-          "button_label": "ABOUT",
+          "button_label": "About",
           "button_link": "shopify://pages/about",
           "button_style": "primary",
           "layout": "left",
