@@ -463,8 +463,8 @@
           "mode": "enabled",
           "popup_seconds": 3,
           "popup_days": 2,
-          "popup_title": "LET THE GOOD TIMES ROLL!!!!!",
-          "popup_text": "<p>Join the party! Sign up for the VIP email list for early access to all shop updates and exclusive offers! I promise to not spam your inbox... we all get enough emails these days! ✌️💛🌈</p>",
+          "popup_title": "Let the Good Times Roll!",
+          "popup_text": "<p>Join the VIP email list for early access to new releases, shop updates, and exclusive offers.</p><p>No spam. Just the good stuff.✌️</p>",
           "enable_newsletter": true,
           "button_label": "",
           "button_link": ""
