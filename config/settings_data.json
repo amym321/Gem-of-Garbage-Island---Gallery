@@ -91,7 +91,7 @@
           "main_menu_link_list": "main-menu",
           "show_announcement": true,
           "show_announcement_home_only": false,
-          "announcement_text": "Welcome to GOGI Jewelry! Thanks for shopping small! Be Love. Stay Groovy.✌️💛🌈",
+          "announcement_text": "Thanks for shopping small! Be Love. Stay Groovy. ✌️💛🌈",
           "announcement_link": ""
         }
       },
@@ -564,6 +564,7 @@
           "d0518b75-1ebd-4ac8-9457-28a8170631c1",
           "collection_3Fd7Kh"
         ],
+        "disabled": true,
         "settings": {
           "title": "Shop",
           "alt": true
@@ -627,6 +628,7 @@
         "block_order": [
           "1559097202495"
         ],
+        "disabled": true,
         "settings": {
           "style": "gif",
           "title": "A little bit country, a little bit rock 'n roll",
