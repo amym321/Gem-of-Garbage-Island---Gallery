@@ -740,8 +740,8 @@
           "subtitle": "",
           "title": "Let's Rock!",
           "text": "<p>A little bit country, a little bit rock ‘n roll.</p><p>Jewelry handcrafted by Kristin Groener in silver, bronze, and gold, featuring authentic gemstones and traditional silversmithing techniques.<br/><br/><strong>Be Love. Stay Groovy.<br/></strong>✌️💛🌈</p>",
-          "button_label": "SHOP NOW",
-          "button_link": "shopify://collections",
+          "button_label": "",
+          "button_link": "",
           "button_style": "secondary",
           "layout": "right",
           "alt": false
