@@ -647,6 +647,7 @@
         "blocks": {
           "1559098181700-0": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "title": "Handcrafted with love",
               "title_size": 49,
@@ -695,6 +696,7 @@
           "04ad0d94-decd-4ee2-8786-2b2650b32a2d",
           "6cf3bf68-b86c-4dab-9ccf-57cba6652c3b"
         ],
+        "disabled": true,
         "settings": {
           "style": "minimal",
           "desktop_size": 0,
@@ -768,6 +770,7 @@
       },
       "1559687710135": {
         "type": "map",
+        "disabled": true,
         "settings": {
           "map_title": "LOCAL PICKUP",
           "address": "<p>Red Lodge, MT, USA</p><p>Mon - Fri: 12pm - 5pm<br/>Saturday: 12pm - 5pm<br/>Sunday: CLOSED</p>",
