@@ -594,7 +594,7 @@
         "type": "featured-collection-slider",
         "settings": {
           "title": "SHOP EARRINGS",
-          "description": "From simple studs to big statement hoops - we got you covered with all the styles and looks! And P.S. -  EVERYONE needs a classic pair of silver hoops!",
+          "description": "",
           "home_featured_products": "earrings",
           "per_row": "small",
           "alt": false
@@ -602,6 +602,7 @@
       },
       "1558626745581": {
         "type": "featured-content",
+        "disabled": true,
         "settings": {
           "title": "",
           "text": "<p>Sacred adornment. Self expression. Talisman. Heirloom. Art. What does your jewelry mean to you?  I make adornments that will last a lifetime and serve to uplift you and all who cross your path.</p>",
