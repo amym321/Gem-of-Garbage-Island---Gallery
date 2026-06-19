@@ -581,7 +581,7 @@
         "type": "featured-collection",
         "settings": {
           "title": "Featured collection",
-          "description": "Check out some of our top selling items!",
+          "description": "",
           "home_featured_products": "ready-to-ship",
           "rows": 1,
           "per_row_desktop": 4,
