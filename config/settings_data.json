@@ -167,6 +167,7 @@
         "blocks": {
           "product-text-columns": {
             "type": "text-columns",
+            "disabled": true,
             "settings": {
               "title": "Why choose us?",
               "align_text": "center",
@@ -193,6 +194,7 @@
           },
           "product-text-and-image": {
             "type": "text-and-image",
+            "disabled": true,
             "settings": {
               "image": "shopify://shop_images/20D7B450-1BFB-4A12-8C94-0FBA646F36AC.jpg",
               "image2": "shopify://shop_images/851279F5-154F-4C8B-BF4E-D63F4B9E90D7.jpg",
@@ -209,6 +211,7 @@
           },
           "product-background-image-text": {
             "type": "background-image-text",
+            "disabled": true,
             "settings": {
               "subtitle": "",
               "title": "Handcrafted with love",
