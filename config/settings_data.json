@@ -584,9 +584,9 @@
       "1556162802939": {
         "type": "featured-collection",
         "settings": {
-          "title": "New Arrivals",
+          "title": "Best Sellers",
           "description": "",
-          "home_featured_products": "ready-to-ship",
+          "home_featured_products": "best-sellers",
           "rows": 1,
           "per_row_desktop": 4,
           "per_row_mobile": "2",
