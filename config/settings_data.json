@@ -575,9 +575,62 @@
       },
       "list-collections-template": {
         "type": "list-collections-template",
+        "blocks": {
+          "collection_jBgY3j": {
+            "type": "collection",
+            "settings": {
+              "collection": "shop-all"
+            }
+          },
+          "collection_brgc4c": {
+            "type": "collection",
+            "settings": {
+              "collection": "ready-to-ship"
+            }
+          },
+          "collection_94VzEk": {
+            "type": "collection",
+            "settings": {
+              "collection": "made-to-order"
+            }
+          },
+          "collection_eddjFY": {
+            "type": "collection",
+            "settings": {
+              "collection": "earrings"
+            }
+          },
+          "collection_Mzw9jn": {
+            "type": "collection",
+            "settings": {
+              "collection": "rings"
+            }
+          },
+          "collection_GcLxHq": {
+            "type": "collection",
+            "settings": {
+              "collection": "necklaces"
+            }
+          },
+          "collection_6pzkGw": {
+            "type": "collection",
+            "settings": {
+              "collection": "miscellaneous"
+            }
+          }
+        },
+        "block_order": [
+          "collection_jBgY3j",
+          "collection_brgc4c",
+          "collection_94VzEk",
+          "collection_eddjFY",
+          "collection_Mzw9jn",
+          "collection_GcLxHq",
+          "collection_6pzkGw"
+        ],
         "settings": {
           "title_enable": true,
-          "display_type": "all",
+          "display_type": "selected",
           "sort": "alphabetical"
         }
       },
