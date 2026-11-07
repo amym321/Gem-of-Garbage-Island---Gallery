@@ -115,7 +115,7 @@
         "type": "collection-template",
         "settings": {
           "per_row_desktop": 3,
-          "per_row_mobile": "1",
+          "per_row_mobile": "2",
           "description_bottom": false
         }
       },
