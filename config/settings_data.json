@@ -600,6 +600,12 @@
               "collection": "made-to-order"
             }
           },
+          "collection_kkpA7i": {
+            "type": "collection",
+            "settings": {
+              "collection": "gold"
+            }
+          },
           "collection_eddjFY": {
             "type": "collection",
             "settings": {
@@ -630,6 +636,7 @@
           "collection_hAHD4V",
           "collection_brgc4c",
           "collection_94VzEk",
+          "collection_kkpA7i",
           "collection_eddjFY",
           "collection_Mzw9jn",
           "collection_GcLxHq",
