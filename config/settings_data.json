@@ -658,10 +658,10 @@
       "1556162802939": {
         "type": "featured-collection",
         "settings": {
-          "title": "Best Sellers",
+          "title": "Latest Collection",
           "description": "",
-          "home_featured_products": "best-sellers",
-          "rows": 1,
+          "home_featured_products": "latest-collection",
+          "rows": 2,
           "per_row_desktop": 4,
           "per_row_mobile": "2",
           "view_all": true,
@@ -1473,6 +1473,19 @@
           "show_image": true,
           "image": "shopify://shop_images/IMG_1013.jpg"
         }
+      },
+      "featured_collection_tGNXY6": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Best Sellers",
+          "description": "",
+          "home_featured_products": "best-sellers",
+          "rows": 1,
+          "per_row_desktop": 4,
+          "per_row_mobile": "2",
+          "view_all": true,
+          "alt": true
+        }
       }
     },
     "content_for_index": [
@@ -1480,6 +1493,7 @@
       "1559687247066",
       "1543003878234",
       "1556162802939",
+      "featured_collection_tGNXY6",
       "1559585995085",
       "1558626745581",
       "1556162914490",
