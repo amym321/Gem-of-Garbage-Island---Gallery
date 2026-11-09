@@ -582,6 +582,12 @@
               "collection": "shop-all"
             }
           },
+          "collection_GdzzhG": {
+            "type": "collection",
+            "settings": {
+              "collection": "latest-collection"
+            }
+          },
           "collection_hAHD4V": {
             "type": "collection",
             "settings": {
@@ -633,6 +639,7 @@
         },
         "block_order": [
           "collection_jBgY3j",
+          "collection_GdzzhG",
           "collection_hAHD4V",
           "collection_brgc4c",
           "collection_94VzEk",
